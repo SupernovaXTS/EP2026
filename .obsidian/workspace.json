@@ -11,20 +11,18 @@
             "id": "1f1483ac931482d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "World/Vesta/Factions/Cognite/Sable Index/Known Associates.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Known Associates"
             }
-          }
-        ]
-      },
-      {
-        "id": "634a8482c78422c3",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ed5ea0f067acfbd9",
+            "id": "c146ce0934934a51",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -106,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World/Vesta/Factions/Cognite/Sable Index/Known Associates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Known Associates"
             }
           },
           {
@@ -124,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World/Vesta/Factions/Cognite/Sable Index/Known Associates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Known Associates"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "World/Vesta/Factions/Cognite/Sable Index/Known Associates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Known Associates"
             }
           },
           {
@@ -210,11 +210,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "54906e848140afeb",
+  "active": "1f1483ac931482d6",
   "lastOpenFiles": [
+    "World/Vesta/Factions/Cognite/Cognite.md",
+    "World/Vesta/Factions/Cognite/Audit.md",
+    "Tasks.md",
+    "World/Vesta/Factions/Cognite/Sable Index/Known Associates.md",
+    "World/Vesta/Factions/Government/VSC/Notes.md",
+    "World/Vesta/Factions/Cognite/Sable Index",
+    "World/Vesta/Factions/Cognite",
+    "World/Vesta/Factions",
+    "World/Vesta/Factions/Government/VSC/Permitted Items.md",
+    "World/Vesta/Factions/Government/VSC/Prohibited Items.md",
+    "World/Vesta/Factions/Firewall/Operation Parameters.md",
+    "World/Vesta/Factions/Government/VSC",
+    "World/Vesta/Factions/Firewall/Objectives.md",
+    "World/Vesta/Factions/Firewall",
+    "Party/Nova.md",
+    "World/Vesta/Factions/Government",
+    "World/Vesta",
+    "Party/Flash.md",
+    "Welcome.md",
     "Other",
     "World",
-    "Party",
-    "Welcome.md"
+    "Party"
   ]
 }

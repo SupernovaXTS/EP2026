@@ -1,0 +1,2 @@
+- VSC is now maintaining 30 day log retention
+- All synthmorphs are
