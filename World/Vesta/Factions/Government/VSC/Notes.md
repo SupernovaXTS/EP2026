@@ -1,2 +1,4 @@
+
 - VSC is now maintaining 30 day log retention
-- All synthmorphs are
+- All synthmorphs are required to submit to registration
+- See [[Audit]] for futher details on above

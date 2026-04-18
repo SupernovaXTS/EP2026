@@ -11,12 +11,14 @@
             "id": "1f1483ac931482d6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Handouts/dead-drop-vesta-player-briefing.pdf"
+                "file": "World/Vesta/Factions/Firewall/Objectives.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "dead-drop-vesta-player-briefing"
+              "icon": "lucide-file",
+              "title": "Objectives"
             }
           },
           {
@@ -208,27 +210,28 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "54906e848140afeb",
+  "active": "1f1483ac931482d6",
   "lastOpenFiles": [
-    "Handouts/firewall-report-vesta-0442-c (2) (2).pdf",
-    "Handouts/firewall-report-vesta-0442-c.pdf",
-    "Handouts/firewall-report-vesta-genscan-e.pdf",
-    "Handouts/VSC-RN-04-23-firearms.pdf",
-    "Handouts/VSC-RN-03-11-synthetic-entities.pdf",
-    "Handouts/VSE-TB-0291-hull-materials.pdf",
-    "Handouts/VSC-RN-07-04-prohibited-possession.pdf",
-    "Handouts/VSC-RN-04-23-firearms (5).pdf",
-    "Handouts/dead-drop-vesta-player-briefing.pdf",
-    "Handouts/firewall-briefing-session02.pdf",
-    "World/Vesta/Factions/Cognite/Audit.md",
-    "World/Vesta/Factions/Cognite/Cognite.md",
-    "World/Vesta/Factions/Cognite/Sable Index/Known Associates.md",
-    "Tasks.md",
-    "World/Vesta/Factions/Government/VSC/Notes.md",
-    "World/Vesta/Factions/Government/VSC/Permitted Items.md",
-    "World/Vesta/Factions/Government/VSC/Prohibited Items.md",
     "World/Vesta/Factions/Firewall/Operation Parameters.md",
     "World/Vesta/Factions/Firewall/Objectives.md",
+    "World/Vesta/Factions/Cognite/Sable Index/Sable Index.md",
+    "World/Vesta/Factions/Cognite/Sable Index/Known Associates.md",
+    "World/Vesta/Factions/Government/VSC/Notes.md",
+    "Tasks.md",
+    "World/Vesta/Factions/Cognite/Audit.md",
+    "World/Vesta/Factions/Cognite/Cognite.md",
+    "World/Vesta/Factions/Government/Untitled.base",
+    "Handouts/VSC-RN-07-04-prohibited-possession.pdf",
+    "World/Vesta/Factions/Government/VESA",
+    "Handouts/firewall-report-vesta-genscan-e.pdf",
+    "Handouts/firewall-briefing-session02.pdf",
+    "Handouts/dead-drop-vesta-player-briefing.pdf",
+    "Handouts/firewall-report-vesta-0442-c (2) (2).pdf",
+    "Handouts/firewall-report-vesta-0442-c.pdf",
+    "Handouts/VSC-RN-04-23-firearms.pdf",
+    "Handouts/VSC-RN-03-11-synthetic-entities.pdf",
+    "World/Vesta/Factions/Government/VSC/Permitted Items.md",
+    "World/Vesta/Factions/Government/VSC/Prohibited Items.md",
     "Party/Nova.md",
     "Party/Flash.md",
     "Welcome.md"
