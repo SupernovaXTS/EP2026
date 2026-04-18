@@ -1,4 +1,3 @@
 
 Vanek
-* Reciever of cognite IP alerts
-* test
+* Receiver of cognite IP alerts
