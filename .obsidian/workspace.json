@@ -11,12 +11,14 @@
             "id": "1f1483ac931482d6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Handouts/firewall-briefing-session02.pdf"
+                "file": "Party/Gear List.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "firewall-briefing-session02"
+              "icon": "lucide-file",
+              "title": "Gear List"
             }
           },
           {
@@ -204,15 +206,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "1f1483ac931482d6",
+  "active": "54906e848140afeb",
   "lastOpenFiles": [
+    "Party/Nova.md",
+    "Party/Flash.md",
+    "Party/Gear List.md",
+    "Handouts/firewall-briefing-session02.pdf",
     "Handouts/firewall-report-vesta-genscan-e.pdf",
     "Handouts/firewall-report-vesta-0442-c.pdf",
     "Handouts/VSC-RN-03-11-synthetic-entities.pdf",
-    "Handouts/firewall-briefing-session02.pdf",
     "Handouts/dead-drop-vesta-player-briefing.pdf",
     "World/Vesta/Factions/Firewall/Objectives.md",
     "World/Vesta/Factions/Firewall/Operation Parameters.md",
@@ -229,8 +235,6 @@
     "Handouts/VSC-RN-04-23-firearms.pdf",
     "World/Vesta/Factions/Government/VSC/Permitted Items.md",
     "World/Vesta/Factions/Government/VSC/Prohibited Items.md",
-    "Party/Nova.md",
-    "Party/Flash.md",
     "Welcome.md"
   ]
 }
